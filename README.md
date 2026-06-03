@@ -1,4 +1,4 @@
-# 🤖  Gen AI Mock Interview Platform
+# 🤖  Gen AI Mock Interview Platform Customized by Nidhi Meena
 
 A cutting-edge, AI-powered web application for mock interviews, enabling users to practice job interviews with AI-generated questions and receive detailed video analysis. Built using Google Vertex AI (Gemini-2.0-flash) and FastAPI, it offers realistic question generation, speech-to-text transcription, and performance feedback—ideal for job seekers and interview prep.
 
@@ -20,8 +20,6 @@ A cutting-edge, AI-powered web application for mock interviews, enabling users t
 
 ![Screenshots](./screenshots/s1.png)
 ![Screenshots](./screenshots/s2.png)
-![Screenshots](./screenshots/s3.png)
-![Screenshots](./screenshots/s4.png)
 ![Screenshots](./screenshots/s5.png)
 ![Screenshots](./screenshots/s6.png)
 
